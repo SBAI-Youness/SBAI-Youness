@@ -6,7 +6,7 @@
   <a href="https://discordapp.com/users/1192870691373068429" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=youness.sbai.work@gmail.com" target="_blank">
+  <a href="youness.sbai.work@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/youness-sbai-5528092a4/" target="_blank">
@@ -52,10 +52,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SBAI-Youness/SBAI-Youness/output/snake.svg" alt="Snake animation" />
 
 ###
 
