@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Youness SBAI and I'm a computer science student, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is Youness SBAI and I'm a computer science student, from Morocco</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/1192870691373068429" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -19,11 +19,11 @@
 
 ###
 
-<h5 align="left">Top Languages</h5>
+<h5 align="center">Top Languages</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -31,11 +31,11 @@
 
 ###
 
-<h5 align="left">IDE</h5>
+<h5 align="center">IDE</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
@@ -43,11 +43,11 @@
 
 ###
 
-<h5 align="left">OS</h5>
+<h5 align="center">OS</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
