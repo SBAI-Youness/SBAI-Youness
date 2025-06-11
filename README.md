@@ -1,5 +1,5 @@
 <br clear="both">
 
-<img align="left" height="200" src="./gif.gif"  />
-
-###
+<div style="text-align: center;">
+  <img src="./gif.gif" style="height: 300px;" />
+</div>
