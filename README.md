@@ -1,5 +1,3 @@
 <br clear="both">
 
-<div style="text-align: center;">
-  <img src="./gif.gif" style="height: 300px;" />
-</div>
+<img src="./gif.gif" style="display: block; margin: 0 auto; height: 300px;" />
